@@ -1,0 +1,7 @@
+C:\Users\1393227\Desktop\Csharp_built_in_functions\Csharp_built_in_functions\obj\Debug\Csharp_built_in_functions.csprojAssemblyReference.cache
+C:\Users\1393227\Desktop\Csharp_built_in_functions\Csharp_built_in_functions\obj\Debug\Csharp_built_in_functions.csproj.CoreCompileInputs.cache
+C:\Users\1393227\Desktop\Csharp_built_in_functions\Csharp_built_in_functions\bin\Debug\Csharp_built_in_functions.exe.config
+C:\Users\1393227\Desktop\Csharp_built_in_functions\Csharp_built_in_functions\bin\Debug\Csharp_built_in_functions.exe
+C:\Users\1393227\Desktop\Csharp_built_in_functions\Csharp_built_in_functions\bin\Debug\Csharp_built_in_functions.pdb
+C:\Users\1393227\Desktop\Csharp_built_in_functions\Csharp_built_in_functions\obj\Debug\Csharp_built_in_functions.exe
+C:\Users\1393227\Desktop\Csharp_built_in_functions\Csharp_built_in_functions\obj\Debug\Csharp_built_in_functions.pdb
